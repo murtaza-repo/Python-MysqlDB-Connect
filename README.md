@@ -8,17 +8,17 @@
 pip install mysql-connector-python
 
 ```
-Or
+    Or
 
 ```
 pip3 install mysql-connector-python
 
 ```
 
-* Use the  mysql.connector.connect()  method of MySQL Connector Python with required parameters to connect MySQL.
-* Use the connection object returned by a  connect()  method to create a cursor object to perform Database Operations.
-* The cursor.execute() to execute SQL queries from Python.
-* Close the Cursor object using a cursor.close() and MySQL database connection using connection.close() after your work completes.
+* Use the  **mysql.connector.connect()**  method of MySQL Connector Python with required parameters to connect MySQL.
+* Use the connection object returned by a  **connect()**  method to create a **cursor** object to perform Database Operations.
+* The **cursor.execute()** to execute SQL queries from Python.
+* Close the Cursor object using a **cursor.close()** and MySQL database connection using **connection.close()** after your work completes.
 * Catch Exception if any that may occur during this process.
 
 #### Example:
