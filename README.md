@@ -5,13 +5,13 @@
 * Install MySQL Connector Python using pip or pip3.
 
 ```
-pip install mysql-connector-python
+pip install mysql-connector
 
 ```
     Or
 
 ```
-pip3 install mysql-connector-python
+pip3 install mysql-connector
 
 ```
 
