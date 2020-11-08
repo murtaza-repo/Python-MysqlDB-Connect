@@ -10,7 +10,6 @@ Python2:
 pip install mysql-connector
 
 ```
-    Or
 
 Python3:
 ```
